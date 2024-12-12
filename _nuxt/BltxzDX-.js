@@ -1,0 +1,1 @@
+import{k as s,c as n,e as a,D as t}from"./C75TgHsS.js";const c={},o={class:"main"};function r(e,_){return n(),a("div",o,[t(e.$slots,"default")])}const l=Object.assign(s(c,[["render",r]]),{__name:"AppMain"});export{l as default};
