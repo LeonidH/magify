@@ -1,10 +1,9 @@
-::AppMain
-:::HeroSection
-    ::::Hero
+::app-main
+  :::hero-section
+    ::::hero
     ::::
-:::
-
+  :::
 ::
 
-::AppFooter{theme="dark"}
+::app-footer{theme="dark"}
 ::
